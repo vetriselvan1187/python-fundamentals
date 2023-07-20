@@ -1,2 +1,2 @@
 # python-fundamentals
-guide to learn, master python fundamentals and its' concepts
+A guide to learn, master python fundamentals and concepts
