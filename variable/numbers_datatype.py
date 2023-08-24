@@ -1,4 +1,6 @@
 
+from numbers import Number
+
 # example numbers
 
 num1 = 100
@@ -40,6 +42,18 @@ print('total liability = ', total_liability)
 
 c = complex(4, 8)
 print(c.imag, c.real)
+
+
+# isinstance and issubclass methods
+
+print(isinstance(amount, Number))
+print(isinstance(interest, Number))
+print(isinstance(c, Number))
+
+print(issubclass(int, Number))
+print(issubclass(float, Number))
+print(issubclass(complex, Number))
+
 
 # pow(x,y)
 
