@@ -20,7 +20,7 @@ You don't need to have any prior programming experience.
 
 #### Table of contents
 
-- [Python Introduction Installation](#Python Introduction Installation)
+- [Python-Introduction](#Python Introduction Installation)
 - [Variable](#Variable)
 - [Number](#Number)
 - [String](#String) 
@@ -29,15 +29,15 @@ You don't need to have any prior programming experience.
 - [Functions](#Functions) 
 - [Classes](#Classes)
 - [Modules](#Modules)
-- [Data Structures](#Data Strucutures) 
+- [DataStructures](#Data Strucutures) 
 - [Iterators](#Iterators) 
 - [Decorators](#Decorators)
-- [Context Manager](#Context Manager) 
+- [ContextManager](#Context Manager) 
 - [Files](#Files)
 - [Exceptions](#Exceptions)
-- [Virtual Environment](#Virtual Environment) 
+- [VirtualEnvironment](#Virtual Environment) 
 - [Concurrency](#Concurrency)
-- [Socket Programming](#Socket Programming) 
+- [SocketProgramming](#Socket Programming) 
 - [Http](#Http)
 - [Sqlite3](#Sqlite3)
 
