@@ -48,7 +48,7 @@ None
 #### How to Build & Run
 
 ```
-git clone https://github.com/vetriselvan1187/java-concurrency-examples.git
+git clone https://github.com/vetriselvan1187/python-fundamentals.git
 
 cd python-fundamentals
 
