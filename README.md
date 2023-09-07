@@ -1,4 +1,4 @@
-# Python Programming: A Guide to Master python fundamentals
+# Python for Beginners: A Guide to Master python fundamentals
 
 This repository contains source code for my udemy course
 [https://www.udemy.com/course/python-for-everybody-a-guide-to-master-python-fundamentals/](https://www.udemy.com/course/python-for-everybody-a-guide-to-master-python-fundamentals/).
@@ -58,7 +58,7 @@ python3 filename.py
 
 ---
 
-`>>>` Python Programming: A guide to master python fundamentals.
+`>>>` Python for Beginners: A guide to master python fundamentals.
 
 `...`  course by Vetriselvan
 
