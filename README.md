@@ -1,4 +1,4 @@
-# Python for Beginners: A Guide to Master python fundamentals
+# Python for Beginners: A Guide to Master Python Fundamentals
 
 This repository contains source code for my udemy course
 [https://www.udemy.com/course/python-for-everybody-a-guide-to-master-python-fundamentals/](https://www.udemy.com/course/python-for-everybody-a-guide-to-master-python-fundamentals/).
